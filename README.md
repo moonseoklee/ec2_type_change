@@ -11,7 +11,7 @@
 
     - prevInstance 의 이미지를 생성한다.
 
-    -생성된 이미지를 기반으로 새로운 인스턴스(이하 newInstance)를 생성한다.
+    - 생성된 이미지를 기반으로 새로운 인스턴스(이하 newInstance)를 생성한다.
 
     - newInstance 를 TargetGroup 에 등록하고 prevInstance를 TargetGroup 에서 제외한다.
 
